@@ -1,4 +1,4 @@
-# Project 3 - *Parse Pt2e*
+# Project 3 - *Parse Pt2*
 
 **Instagram** is a photo sharing app similar to Instagram but using Parse as its backend.
 
